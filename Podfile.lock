@@ -1,0 +1,22 @@
+PODS:
+  - IJLogin (0.1.0):
+    - Networking
+  - Networking (0.1.0)
+
+DEPENDENCIES:
+  - IJLogin (from `Lib/IJLogin`)
+  - Networking (from `Lib/Networking`)
+
+EXTERNAL SOURCES:
+  IJLogin:
+    :path: Lib/IJLogin
+  Networking:
+    :path: Lib/Networking
+
+SPEC CHECKSUMS:
+  IJLogin: be27dbac95c8d43c5ac0be91366977ab100a2486
+  Networking: 61d47233c37ed04bc4841c276b91a6a0369892c4
+
+PODFILE CHECKSUM: daa8d075da3a5a76c0365490f3d70b1afe21c5a8
+
+COCOAPODS: 1.11.2

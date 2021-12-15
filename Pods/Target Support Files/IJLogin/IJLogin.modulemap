@@ -1,0 +1,6 @@
+framework module IJLogin {
+  umbrella header "IJLogin-umbrella.h"
+
+  export *
+  module * { export * }
+}
